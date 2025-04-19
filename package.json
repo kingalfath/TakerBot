@@ -15,7 +15,7 @@
       "web3",
       "crypto"
     ],
-    "author": "Airdrop Insiders",
+    "author": "Alfath S",
     "license": "MIT",
     "dependencies": {
       "axios": "^1.6.2",
