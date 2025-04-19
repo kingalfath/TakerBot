@@ -1,5 +1,10 @@
-wallets.json
 node_modules
-package-lock.json
+package.json
 setup.js
-tes.js
+# Jangan upload file lingkungan dan private keys
+.env
+wallet.env
+# Folder node_modules (hasil install dependencies)
+node_modules/
+# File log
+*.log
